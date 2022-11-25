@@ -5,7 +5,7 @@
 }
 h1 {
     text-align: center;
-    color: #da0;
+    color: red;
 }
 .container {
     display: flex;
