@@ -4,9 +4,16 @@
     margin: 0;
 }
 
-container {
+.container {
     display: flex;
     width: 80%;
     margin: auto;
     background-color: blue;
+}
+
+.item {
+    flex-basis: 20%;
+    height: 50px;
+    padding: auto;
+    color: brown;
 }
